@@ -2,7 +2,7 @@ def new_hash
 	new_hash = {}
 end
 
-def actor(name)
+def actor
 	new_hash = { name: ""}
 end
 
