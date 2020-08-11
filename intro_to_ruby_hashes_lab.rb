@@ -3,8 +3,7 @@ def new_hash
 end
 
 def actor(name)
-	new_hash = { name: "name"
-
+	new_hash = { name: "#{name}"
 	}
 end
 
